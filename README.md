@@ -1,2 +1,2 @@
 # Mohammad-Farhan
-Hi I'm a react native developer
+Hi, I'm a Software Developer
